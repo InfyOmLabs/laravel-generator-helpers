@@ -11,3 +11,7 @@ This can be useful to other packages as well.
 For Laravel 6,
 
 `composer require infyomlabs/laravel-generator-helpers:^1.0`
+
+## Documentation
+
+**This package is still in very early stage.**

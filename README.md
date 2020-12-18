@@ -1,8 +1,6 @@
 <h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="InfyOm"></h1>
 
 Laravel Generator Helpers
-==========================
-
 
 [![Total Downloads](https://poser.pugx.org/infyomlabs/laravel-generator/downloads)](https://packagist.org/packages/infyomlabs/laravel-generator)
 [![Monthly Downloads](https://poser.pugx.org/infyomlabs/laravel-generator/d/monthly)](https://packagist.org/packages/infyomlabs/laravel-generator)
@@ -46,10 +44,15 @@ You can support us by either sponsoring us or buying one of our paid products. O
 
 ### Buy our Paid Products
 
-[![InfyChat](https://assets.infyom.com/open-source/infychat-banner.png)](https://codecanyon.net/item/infychat-laravel-chat-app-package/25054608)
+[![InfyHMS](https://assets.infyom.com/open-source/infyhms-banner.png)](https://bit.ly/3mtqXuk)
 
 You can also check out our other paid products on [CodeCanyon](https://codecanyon.net/user/infyomlabs/portfolio).
 
-## Made with InfyOm Generator
 
-Also, Do not forget to add your website to [Made with InfyOm Generator List](https://github.com/InfyOmLabs/laravel-generator/blob/develop/made-with-generator.md) list.
+### Follow Us
+
+- [Twitter](https://twitter.com/infyom)
+- [Facebook](https://www.facebook.com/infyom)
+- [LinkedIn](https://in.linkedin.com/company/infyom-technologies)
+- [Youtube](https://www.youtube.com/channel/UC8IvwfChD6i7Wp4yZp3tNsQ)
+- [Contact Us](https://infyom.com/contact-us)

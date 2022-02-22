@@ -46,10 +46,6 @@ You can also check out our other paid products on [CodeCanyon](https://1.envato.
 
 Also, Do not forget to add your website to [Made with InfyOm Generator List](https://github.com/InfyOmLabs/laravel-generator/blob/develop/made-with-generator.md) list.
 
-## Video Tutorials
-
-Checkout [Video Tutorials](https://github.com/shailesh-ladumor/infyom-laravel-generator-tutorial) - **By**: [Shailesh Ladumor](https://github.com/shailesh-ladumor)
-
 ## Security
 
 If you discover any security-related issues, create an issue using the issue tracker.

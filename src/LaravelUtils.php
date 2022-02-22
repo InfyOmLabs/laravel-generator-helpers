@@ -7,7 +7,8 @@ class LaravelUtils
     /**
      * Get full view path relative to the application's configured view path.
      *
-     * @param  string  $path
+     * @param string $path
+     *
      * @return string
      */
     public static function getViewPath($path = '')
